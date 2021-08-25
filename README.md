@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Motoryqt
-- 👀 I’m interested in C++. C#, reverse engineering
-- 🌱 I’m currently learning .
+- 👀 Languages & Hobbies: C++. C#, reverse engineering
 - 💞️ I’m currently working on Motory
 - 📫 How to reach me Discord
 
